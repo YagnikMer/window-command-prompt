@@ -1,3 +1,5 @@
 Remove Directory and SubFolders
-
 rmdir /s /q foldername
+
+Create New Directory
+mkdir foldername
