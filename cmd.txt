@@ -1,0 +1,3 @@
+Remove Directory and SubFolders
+
+rmdir /s /q foldername
